@@ -5,7 +5,7 @@ puts meal
 meal
 end
 
-meal_choice('carrots', 'string beans', 'chicken')
+meal_choice('carrots', 'string beans')
 
 # Your code here
 # For output purposes, use "puts" instead of "print" or "p"
